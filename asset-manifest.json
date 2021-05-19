@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02455d41.chunk.css",
+    "main.js": "/static/js/main.11422dd0.chunk.js",
+    "main.js.map": "/static/js/main.11422dd0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f417d76d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f417d76d.js.map",
+    "static/js/2.8c36c57c.chunk.js": "/static/js/2.8c36c57c.chunk.js",
+    "static/js/2.8c36c57c.chunk.js.map": "/static/js/2.8c36c57c.chunk.js.map",
+    "static/js/3.c81783b1.chunk.js": "/static/js/3.c81783b1.chunk.js",
+    "static/js/3.c81783b1.chunk.js.map": "/static/js/3.c81783b1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.02455d41.chunk.css.map": "/static/css/main.02455d41.chunk.css.map",
+    "static/js/2.8c36c57c.chunk.js.LICENSE.txt": "/static/js/2.8c36c57c.chunk.js.LICENSE.txt",
+    "static/media/Meow.dfc5a63d.png": "/static/media/Meow.dfc5a63d.png",
+    "static/media/App.css": "/static/media/background2.8736614b.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f417d76d.js",
+    "static/js/2.8c36c57c.chunk.js",
+    "static/css/main.02455d41.chunk.css",
+    "static/js/main.11422dd0.chunk.js"
+  ]
+}
