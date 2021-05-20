@@ -48,7 +48,7 @@ function App() {
   </button>
          
           <a>
-           <SocialIcon url="https://gabriellaabdennabi.github.io/"></SocialIcon>
+           <SocialIcon url="https://github.com/gabriellaabdennabi"></SocialIcon>
            </a>
            <a>
            <SocialIcon url="https://www.linkedin.com/in/GabiAbdennabi"></SocialIcon>
